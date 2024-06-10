@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #292929;
+}
+
+#tetrisCanvas {
+    background: #111;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #FFF;
+}

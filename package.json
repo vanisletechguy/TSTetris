@@ -1,0 +1,16 @@
+{
+    "name": "tetris-typescript",
+    "version": "1.0.0",
+    "description": "Tetris game written in TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "lite-server"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1",
+        "typescript": "^4.9.5"
+    },
+    "author": "Michael Aubie",
+    "license": "ISC"
+}
